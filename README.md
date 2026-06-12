@@ -29,26 +29,26 @@
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://fakecrime.bio/EntireCFW">
   <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:susafivrt@gmail.com">
   <img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://github.com/your-username">
+<a href="https://github.com/sn9x0">
   <img src="https://img.shields.io/badge/GitHub-2d1b69?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=sn9x0&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=6d28d9&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/followers/sn9x0?style=for-the-badge&color=6d28d9&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/your-username?style=for-the-badge&color=4c1d95&label=TOTAL+STARS&logo=github&logoColor=white" alt="Stars" />
+<img src="https://img.shields.io/github/stars/sn9x0?style=for-the-badge&color=4c1d95&label=TOTAL+STARS&logo=github&logoColor=white" alt="Stars" />
 
 </div>
 
@@ -185,7 +185,7 @@ solve real-world problems with measurable impact.
 | **Performance** | 3.2x training speedup via custom gradient compression algorithms |
 | **Security** | SOC2 Type II compliant, end-to-end encrypted model checkpoints |
 | **Impact** | Reduced model training costs by 47%, adopted by 12 internal teams |
-| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-NeuralForge-7c3aed?style=flat-square&logo=github)](https://github.com/your-username/neuralforge) |
+| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-NeuralForge-7c3aed?style=flat-square&logo=github)](https://github.com/sn9x0/neuralforge) |
 
 Built custom gradient synchronization protocols that reduced communication overhead by 60% in data-parallel training scenarios. Implemented elastic scaling with preemptible instance support, enabling cost-efficient training runs on spot instances with automatic checkpoint recovery.
 
@@ -205,7 +205,7 @@ Built custom gradient synchronization protocols that reduced communication overh
 | **Performance** | 99.999% uptime SLA across multi-region deployment |
 | **Security** | mTLS, OAuth2, JWT validation, DDoS protection, WAF integration |
 | **Impact** | Serves as the backbone for 40+ microservices in production |
-| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-Nexus_Gateway-6d28d9?style=flat-square&logo=github)](https://github.com/your-username/nexus-gateway) |
+| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-Nexus_Gateway-6d28d9?style=flat-square&logo=github)](https://github.com/sn9x0/nexus-gateway) |
 
 Architected plugin-based middleware system supporting custom authentication, transformation, and observability plugins. Implemented circuit breaker patterns with adaptive thresholds and bulkhead isolation for downstream service protection.
 
@@ -225,7 +225,7 @@ Architected plugin-based middleware system supporting custom authentication, tra
 | **Performance** | 94.7% answer accuracy, sub-200ms retrieval latency |
 | **Security** | Role-based access control, PII detection and redaction pipeline |
 | **Impact** | Reduced internal knowledge lookup time by 73% |
-| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-CortexRAG-4c1d95?style=flat-square&logo=github)](https://github.com/your-username/cortexrag) |
+| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-CortexRAG-4c1d95?style=flat-square&logo=github)](https://github.com/sn9x0/cortexrag) |
 
 Designed hybrid retrieval architecture combining dense vector search with BM25 sparse retrieval and cross-encoder reranking. Implemented streaming response generation with source attribution and confidence scoring for enterprise compliance requirements.
 
@@ -245,7 +245,7 @@ Designed hybrid retrieval architecture combining dense vector search with BM25 s
 | **Performance** | Real-time alerting with < 30s detection-to-notification latency |
 | **Security** | Multi-tenant data isolation, audit logging, SSO integration |
 | **Impact** | Reduced MTTR by 62%, prevented 15+ P0 incidents via predictive alerts |
-| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-ObservX-2d1b69?style=flat-square&logo=github)](https://github.com/your-username/observx) |
+| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-ObservX-2d1b69?style=flat-square&logo=github)](https://github.com/sn9x0/observx) |
 
 Built ML-powered anomaly detection engine using isolation forests and LSTM autoencoders for proactive incident detection. Implemented OpenTelemetry-native data pipeline with adaptive sampling to optimize storage costs while maintaining trace fidelity.
 
@@ -265,7 +265,7 @@ Built ML-powered anomaly detection engine using isolation forests and LSTM autoe
 | **Performance** | < 0.3ms added latency per hop with full encryption |
 | **Security** | Zero-trust architecture, SPIFFE identity, automated CVE scanning |
 | **Impact** | Achieved SOC2 and ISO 27001 compliance for 3 product lines |
-| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-VaultMesh-7c3aed?style=flat-square&logo=github)](https://github.com/your-username/vaultmesh) |
+| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-VaultMesh-7c3aed?style=flat-square&logo=github)](https://github.com/sn9x0/vaultmesh) |
 
 Engineered custom eBPF-based network policy enforcement with kernel-level packet inspection. Built automated certificate lifecycle management with cross-cluster trust federation supporting hybrid cloud deployments.
 
@@ -436,20 +436,8 @@ Engineered custom eBPF-based network policy enforcement with kernel-level packet
 
 <div align="center">
 
-<a href="https://leetcode.com/your-username">
+<a href="https://leetcode.com/EntireCFW">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e" alt="LeetCode" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/user/your-username">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e" alt="GeeksforGeeks" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/your-username">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=1a1a2e" alt="HackerRank" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/your-username">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e" alt="CodeChef" height="40" />
 </a>
 
 </div>
@@ -469,19 +457,19 @@ Engineered custom eBPF-based network policy enforcement with kernel-level packet
 
 <div align="center">
 
-<a href="https://github.com/your-username">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<a href="https://github.com/sn9x0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sn9x0&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/your-username">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/sn9x0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn9x0&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </a>
 
 <br/>
 <br/>
 
-<a href="https://github.com/your-username">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6d28d9" alt="GitHub Streak" />
+<a href="https://github.com/sn9x0">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sn9x0&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6d28d9" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -501,8 +489,8 @@ Engineered custom eBPF-based network policy enforcement with kernel-level packet
 
 <div align="center">
 
-<a href="https://github.com/your-username">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<a href="https://github.com/sn9x0">
+  <img src="https://github-profile-trophy.vercel.app/?username=sn9x0&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </a>
 
 </div>
@@ -522,8 +510,8 @@ Engineered custom eBPF-based network policy enforcement with kernel-level packet
 
 <div align="center">
 
-<a href="https://github.com/your-username">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c9d1d9&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
+<a href="https://github.com/sn9x0">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sn9x0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c9d1d9&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
 </a>
 
 </div>
@@ -544,9 +532,9 @@ Engineered custom eBPF-based network policy enforcement with kernel-level packet
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sn9x0/sn9x0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sn9x0/sn9x0/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/sn9x0/sn9x0/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -604,20 +592,16 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:susafivrt@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" height="35" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://fakecrime.bio/EntireCFW">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" height="35" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/your-username">
+<a href="https://github.com/sn9x0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" height="35" />
-</a>
-&nbsp;&nbsp;
-<a href="https://your-portfolio.dev">
-  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" height="35" />
 </a>
 
 </div>
